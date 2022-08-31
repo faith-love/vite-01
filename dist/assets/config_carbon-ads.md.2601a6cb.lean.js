@@ -1,1 +1,0 @@
-import{_ as a,c as n,o as s,a as t}from"./app.233e65ae.js";const b='{"title":"\u4E3B\u9898\u914D\u7F6E\uFF1ACarbon Ads","description":"","frontmatter":{},"headers":[],"relativePath":"config/carbon-ads.md"}',e={},o=t("",3),p=[o];function r(c,l,i,d,u,_){return s(),n("div",null,p)}var h=a(e,[["render",r]]);export{b as __pageData,h as default};
